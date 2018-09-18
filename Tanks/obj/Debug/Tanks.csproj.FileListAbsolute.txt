@@ -1,0 +1,9 @@
+C:\Users\anuar\source\repos\Tanks\Tanks\bin\Debug\Tanks.exe.config
+C:\Users\anuar\source\repos\Tanks\Tanks\bin\Debug\Tanks.exe
+C:\Users\anuar\source\repos\Tanks\Tanks\bin\Debug\Tanks.pdb
+C:\Users\anuar\source\repos\Tanks\Tanks\bin\Debug\MyClassLib.dll
+C:\Users\anuar\source\repos\Tanks\Tanks\bin\Debug\MyClassLib.pdb
+C:\Users\anuar\source\repos\Tanks\Tanks\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\Tanks\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\Tanks\Tanks\obj\Debug\Tanks.exe
+C:\Users\anuar\source\repos\Tanks\Tanks\obj\Debug\Tanks.pdb
